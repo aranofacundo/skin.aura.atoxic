@@ -1,4 +1,4 @@
-<addon id="skin.aura.atoxic" name="Aura" provider-name="aranofacundo, mac12m99, jurialmunkey" version="1.1.0">
+<addon id="skin.aura.atoxic" name="Aura" provider-name="aranofacundo, mac12m99, jurialmunkey" version="1.1.1">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.skinshortcuts" version="1.1.0" />
@@ -26,6 +26,6 @@
             <screenshot>resources/screenshot-04.jpg</screenshot>
             <screenshot>resources/screenshot-05.jpg</screenshot>
         </assets>
-        <news>Ver. 1.1.0 :: Add Matrix (19.x) support.</news>
+        <news>Ver. 1.1.1 :: Update addon dependencies.</news>
     </extension>
 </addon>
